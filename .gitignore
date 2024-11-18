@@ -1,0 +1,6 @@
+# Ignore macOS directory attributes files.
+.DS_Store
+
+# IDE files.
+.idea/
+/.vscode/
